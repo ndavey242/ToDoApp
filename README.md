@@ -18,6 +18,12 @@ The following **stretch** features are implemented:
 
 * [ X ] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list
 
+## Video Walkthrough
+
+A GIF walkthrough of the app's features can be accessed here!
+https://github.com/ndavey242/ToDoApp/blob/master/ToDoAppVideoWalkthrough.gif
+
+
 ## Notes
 
 I found the configuiring the constraints layout challenging initially, but after playing around with it and working through the errors I was getting, it ended up working out. 
