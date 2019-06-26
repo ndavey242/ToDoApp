@@ -18,14 +18,9 @@ The following **stretch** features are implemented:
 
 * [ X ] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list
 
-The following **additional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
-
-
 ## Notes
 
-Describe any challenges encountered while building the app.
+I found the configuiring the constraints layout challenging initially, but after playing around with it and working through the errors I was getting, it ended up working out. 
 
 ## License
 
