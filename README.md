@@ -21,6 +21,7 @@ The following **stretch** features are implemented:
 ## Video Walkthrough
 
 A GIF walkthrough of the app's features can be accessed here!
+
 <img src='https://github.com/ndavey242/ToDoApp/blob/master/ToDoAppVideoWalkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
